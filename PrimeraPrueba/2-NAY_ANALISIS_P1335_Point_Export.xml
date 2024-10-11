@@ -1,0 +1,21 @@
+<Point ID="1335" Date="07/03/24" Time="09:23:22">
+    <Annotations StartTime="5290229" Reference_Annotation="2000" Map_Annotation="2005" />
+    <WOI From="-155" To="195" />
+    <Voltages Unipolar="4.365" Bipolar="1.155" MaxMicroBipolar="-10000" MaxMicroBipolarSourceChannelID="0" />
+    <Positions>
+        <Connector CS_CONNECTOR="2-NAY_ANALISIS_CS_CONNECTOR_Eleclectrode_Positions_5290229.txt" />
+        <Connector CS_CONNECTOR="2-NAY_ANALISIS_CS_CONNECTOR_Sensor_Positions_5290229.txt" />
+        <Connector DEC_CONNECTOR="2-NAY_ANALISIS_DEC_CONNECTOR_Eleclectrode_Positions_5290229.txt" />
+        <Connector MCC_DX_CONNECTOR="2-NAY_ANALISIS_MCC_DX_CONNECTOR_Eleclectrode_Positions_5290229.txt" />
+        <Connector MCC_DX_CONNECTOR="2-NAY_ANALISIS_MCC_DX_CONNECTOR_Sensor_Positions_5290229.txt" />
+        <Connector CS_CONNECTOR="2-NAY_ANALISIS_CS_CONNECTOR_Eleclectrode_Positions_OnAnnotation_5290229.txt" />
+        <Connector CS_CONNECTOR="2-NAY_ANALISIS_CS_CONNECTOR_Sensor_Positions_OnAnnotation_5290229.txt" />
+        <Connector DEC_CONNECTOR="2-NAY_ANALISIS_DEC_CONNECTOR_Eleclectrode_Positions_OnAnnotation_5290229.txt" />
+        <Connector MCC_DX_CONNECTOR="2-NAY_ANALISIS_MCC_DX_CONNECTOR_Eleclectrode_Positions_OnAnnotation_5290229.txt" />
+        <Connector MCC_DX_CONNECTOR="2-NAY_ANALISIS_MCC_DX_CONNECTOR_Sensor_Positions_OnAnnotation_5290229.txt" />
+    </Positions>
+    <Impedances Rate="100" Number="0" StartTime="5290229" />
+    <ECG FileName="2-NAY_ANALISIS_ECG_Export_5290229.txt" UnipolarMappingChannel="MCC_Dx_UniPolar_44" BipolarMappingChannel="MCC_Dx_BiPolar_37" ReferenceChannel="V5" />
+    <ReferenceAnnotations Beat0="2000" Beat-1="1641" Beat-2="1272" CycleLength="359" />
+    <LPM SearchLimit="-5" AmplitudeThreshold="0.030000" />
+</Point>
